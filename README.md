@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Heart Disease Risk Prediction System
 
 Course: ITLML801 – Machine Learning
@@ -274,4 +273,4 @@ The system provides a reliable and interpretable heart disease risk prediction t
 =======
 # heart-disease-risk-prediction_ml
 practical exam
->>>>>>> 843bb56c4dd513279a5203f2ac995d6e1f2ef44c
+843bb56c4dd513279a5203f2ac995d6e1f2ef44c
