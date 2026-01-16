@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Heart Disease Risk Prediction System
 
 Course: ITLML801 – Machine Learning
@@ -270,3 +271,7 @@ Prediction consistency verification
 This project successfully demonstrates a complete machine learning lifecycle, from data analysis and model training to deployment and user interaction.
 The system provides a reliable and interpretable heart disease risk prediction tool suitable for clinical decision support at CHUB Hospital.
 
+=======
+# heart-disease-risk-prediction_ml
+practical exam
+>>>>>>> 843bb56c4dd513279a5203f2ac995d6e1f2ef44c
